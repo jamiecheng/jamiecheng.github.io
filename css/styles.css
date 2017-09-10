@@ -1,0 +1,24 @@
+body {
+   background-color: #383c57;
+}
+
+.mdl-grid {
+	margin-top: 100px;
+}
+
+.mdl-grid.center-items {
+   justify-content: center;
+}
+
+.card-head {
+	width: 100%;
+}
+
+.card-head > .mdl-card__title {
+  color: #fff;
+  background: #395e99;
+}
+
+.head-info {
+	background: #395e99;
+}
