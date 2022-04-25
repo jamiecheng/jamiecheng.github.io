@@ -19,8 +19,6 @@ body {
    margin-inline-start: auto;
    margin-inline-end: auto;
    max-width: 50ch;
-   padding-inline-start: 1rem;
-   padding-inline-end: 1rem;
    text-align: justify;
    margin-top: 160px;
 }
