@@ -46,3 +46,15 @@ h3 {
    margin-right: 10px;
    font-weight: bold;
 }
+
+.link {
+   color: #54e8e8;
+   text-decoration: none;
+}
+
+.link-icon {
+   margin-inline-start: auto;
+   margin-inline-end: auto;
+   margin-top: auto;
+   margin-bottom: auto;
+}
