@@ -1,0 +1,45 @@
+body {
+   background-color: rgb(32, 32, 35);
+   color: #ededed;
+   font-family: 'Fira Code';
+}
+
+.main {
+   margin-inline-start: auto;
+   margin-inline-end: auto;
+   max-width: 768px;
+   padding-inline-start: 1rem;
+   padding-inline-end: 1rem;
+}
+
+.container {
+   width: 100%;
+   position: relative;
+   transform: none;
+   margin-inline-start: auto;
+   margin-inline-end: auto;
+   max-width: 43ch;
+   padding-inline-start: 1rem;
+   padding-inline-end: 1rem;
+   text-align: justify;
+   margin-top: 160px;
+}
+
+.header {
+   margin-bottom: 40px;
+}
+
+#name {
+   font-family: 'Permanent Marker';
+   line-height: 1.2;
+   margin: 0;
+}
+
+#function {
+   margin: 0;
+}
+
+.year {
+   margin-right: 10px;
+   font-weight: bold;
+}
