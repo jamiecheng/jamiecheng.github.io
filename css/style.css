@@ -25,6 +25,11 @@ body {
    margin-top: 160px;
 }
 
+h3 {
+   width: fit-content;
+   border-bottom: 2px solid #ededed;
+}
+
 .header {
    margin-bottom: 40px;
 }
